@@ -17,6 +17,7 @@ public class Address {
     }
 
     /**
+     * IP getter
      * @return IP address
      */
     public String getIP() {
